@@ -1,0 +1,11 @@
+project,cement_cum,steel_mt,brickwork_cum,sand_cum,labor_cost,total_cost
+Staff_Quarters_A,1.0,0.05,0.7,2.0,2000,224201
+BITM_Block_A,1.5,0.10,1.0,3.0,3500,320000
+BITM_Block_B,0.8,0.04,0.6,1.5,1800,180000
+BITM_Civil,1.4,0.08,1.0,2.8,3000,238388
+Staff_Plumbing,0.2,0.01,0.1,0.5,12000,158103
+BITM_Plumbing,0.3,0.02,0.15,0.7,25000,361781
+Total_Project,1.9,0.16,1.95,6.0,42000,1111374
+Staff_RCC_Concrete,1.0,0.05,0,0,1579,10833.82
+Staff_Earthwork,0,0,0,1.0,0,1429.83
+Staff_Masonry_Foundation,0.05,0,0.2,0.24,900,1082.60
